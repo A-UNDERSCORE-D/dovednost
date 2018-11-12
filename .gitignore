@@ -1,0 +1,7 @@
+build
+out
+run
+run_server
+.idea
+.gradle
+*.iml
