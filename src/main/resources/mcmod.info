@@ -1,0 +1,23 @@
+[
+  {
+    "modid": "dovednost",
+    "name": "Dovednost",
+    "description": "",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "Team Ferricyanide"
+    ],
+    "credits": "",
+    "useDependencyInformation": true,
+    "requiredMods": [
+      "forge",
+      "forgelin"
+    ],
+    "dependencies": [
+      "forgelin"
+    ]
+  }
+]
